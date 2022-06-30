@@ -3,5 +3,17 @@
 // You can use Sass (SCSS) here: https://sass-lang.com/
 
 li {
-  color: blue;
+  color: white;
+  display: inline;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding: 30px;
+  background-color: blue;
+  size: 50px;
+}
+
+h1 {
+  padding-bottom: 20px;
 }
